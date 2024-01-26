@@ -1,0 +1,5 @@
+Partner: Lucas 
+Favorite:
+Java is his favorite language because it's the first one you learned. 
+Experience:
+Java is the language he is most experienced with.
